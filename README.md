@@ -32,7 +32,8 @@
 
 ### 🔹 **DevOps Learning Repository**
 - Notes, commands, hands-on tasks related to **Linux, Git, GitHub, Docker, Jenkins, AWS**  
-- *(Add your repo link here)*  
+- *(🔗 GitHub Repo: [DevOps Learning Repository](https://github.com/Sushantp875/DevOps-Learning-Repository)
+)*  
 
 ---
 
