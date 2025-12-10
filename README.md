@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sushant</h1>
 
-<!--
-**Sushantp875/Sushantp875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Linux | Docker | Jenkins | GitHub | Kubernetes | Python</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+- 🌱 I’m currently learning **AWS, DevOps Tools, Docker, Jenkins, and Kubernetes**
+- 🛠 Hands-on practice with **EC2, S3, IAM, EKS, Docker, Git, GitHub, Jenkins CI/CD**
+- 🚀 Currently working on real-time DevOps projects to build strong hands-on experience
+- 🎯 Interested in building **production-ready CI/CD pipelines**
+- 💼 Looking for **internships or entry-level DevOps roles**
+- 📁 All my learning and notes are available in my GitHub repositories
+- 📩 Reach me at: **pawarsushantr@gmail.com**
+
+---
+
+## 🛠 Technologies & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📂 My Projects
+
+### 🔹 **DevOps Learning Repository**
+- Notes, commands, hands-on tasks related to **Linux, Git, GitHub, Docker, Jenkins, AWS**  
+- *(Add your repo link here)*  
+
+---
+
+### 🔹 **Project: Dockerized Application Deployment**
+**Technologies:** Docker, Git, Linux  
+**Features:**  
+- Containerized application  
+- Dockerfile & Docker Hub workflow  
+
+---
+
+### 🔹 **Project: Static Website Hosting on AWS S3**
+**Technologies:** AWS S3, CloudFront, IAM  
+**Features:**  
+- Static website hosted on S3  
+- CloudFront distribution for CDN  
+
+---
+
+### 🔹 **Project: Basic CI/CD Pipeline With Jenkins**
+**Technologies:** Jenkins, GitHub, Shell scripting  
+**Features:**  
+- Automated build & test pipeline  
+- GitHub webhook integration  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushantp875&show_icons=true&theme=tokyonight)
+
+</div>
+
+---
+
+## 📫 Contact
+
+- **Email:** *pawarsushantr@gmail.com*  
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+
