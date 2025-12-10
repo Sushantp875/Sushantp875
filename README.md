@@ -6,7 +6,7 @@
 
 ## 🔥 About Me
 
-- 🌱 I’m currently learning **AWS, DevOps Tools, Docker, Jenkins, and Kubernetes**
+- 💻 Aspiring DevOps & Cloud Engineer with hands-on experience in AWS, Docker, Jenkins, Linux, and Kubernetes, focused on building production-ready pipelines.
 - 🛠 Hands-on practice with **EC2, S3, IAM, EKS, Docker, Git, GitHub, Jenkins CI/CD**
 - 🎯 Interested in building **production-ready CI/CD pipelines**
 - 📁 All my learning and notes are available in my GitHub repositories
