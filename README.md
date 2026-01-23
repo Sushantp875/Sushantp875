@@ -8,7 +8,7 @@
 
 - 💻 Aspiring DevOps & Cloud Engineer 
 - 🌱 Hands-on experience in AWS, Docker, Jenkins, Linux, and Kubernetes, focused on building production-ready pipelines.
-- 🛠  Hands-on practice with **EC2, S3, IAM, EKS, Docker, Git, GitHub, Jenkins CI/CD**
+- 🛠  Hands-on practice with **EC2, S3, IAM, EKS, Docker, Git, GitHub, Jenkins CI/CD, Ansible**
 - 🎯 Interested in building **production-ready CI/CD pipelines**
 - 📁 All my learning and notes are available in my GitHub repositories
 - 📩 Reach me at: **pawarsushantr@gmail.com**
